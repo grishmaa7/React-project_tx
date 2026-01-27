@@ -18,3 +18,7 @@
 
 4. Nesting or Nested routes
 
+5. git status-> status hercha ani edit gareko haru dekhaucha
+6. git add . -> add garcha edit gareko haru
+7. git commit-> aba add gareko lai commit garni
+
